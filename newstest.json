@@ -1,11 +1,11 @@
 {
   "announcements": [
     {
-      "date": "04.23.2018",
-      "title": "Big News",
-      "subtitle": "Halo Reach Coming to MCC",
-      "content": "if the github merge project worked you should be seeing this<br /><br />♥ M1ghty boy",
-      "background": "dew://assets/announcements/welcome_reach.jpg"
+      "date": "17.05.2019",
+      "title": "Title",
+      "subtitle": "Subtitle",
+      "content": "Line 1 <br /> line 2 <br /> line 3? <br />hey are these even showing <br />placeholder lol <br /><br />♥ M1ghty boy",
+      "background": "dew://assets/announcements/welcome_infinite_4k_large.jpg"
     }
   ]
 }
